@@ -1,4 +1,4 @@
-# Hi there, I'm Kishor Sukharam Choudhary 👋  
+# Hi there, I'm Kishor Choudhary 👋  
 
 🎯 **Cybersecurity Enthusiast | Web Developer | Bug Bounty Hunter**  
 💡 Passionate about cybersecurity, ethical hacking, and building secure web applications.  
